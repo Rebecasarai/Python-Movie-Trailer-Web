@@ -8,7 +8,7 @@ Movie trailer website project, part of the **Udacity Full Stack Web Developer Na
 ## What it is and does
 
 A Python program that produces the HTML for a movie website that displays a number of movies. Click on a movie poster to play its trailer.
-Required Libraries and Dependencies
+Required Libraries and Dependencies. In this one, those are all about entrepeneurship.
 
 Python 2.x is required to run this project. The Python executable should be in your default path, which the Python installer should have set.
 
