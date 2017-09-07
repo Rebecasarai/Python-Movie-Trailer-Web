@@ -1,6 +1,6 @@
 # Python Movie Trailer Website
 
-[MoviesWeb](https://rebecasarai.github.io/img/movies.png)](https://rebecasarai.github.io/img/movies.png)
+[![M|Web](https://rebecasarai.github.io/img/movies.png)]
 
 
 Movie trailer website project, part of the **Udacity Full Stack Web Developer Nanodegree.**
